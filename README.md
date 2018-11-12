@@ -16,6 +16,6 @@ For instance:
 - A meta-twist on the Byteconf conference format itself! Maybe _in-person conferences_ (yes please), or a _100% lightning talk_ conference
 - Anything else! ...as long as it's not [code of conduct](https://github.com/byteconf/ccoc) violating 🤗
 
-OK, now on to the fun stuff. [Submit your ideas here, by filing a ticket!](https://github.com/byteconf/conferences/issues/new)
+OK, now on to the fun stuff. [**Submit your ideas here, by filing a ticket!**](https://github.com/byteconf/conferences/issues/new)
 
 Have questions? Join us on [our Discord](https://byteconf.com/discord), or shoot me a DM on [Twitter](https://twitter.com/signalnerve). I'm super excited to see what y'all come up with 🙌
