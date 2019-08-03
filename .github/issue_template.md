@@ -13,3 +13,5 @@
 ### Anything else you want us to know about your idea? 
 
 `For instance, is it the first conference for this language? Does it have a particular constraint that makes putting on the event tricky?`
+
+**Help, I was tagged in this thread and I have no idea what it is!** Hi there! [Byteconf](https://byteconf.com) is a free developer conferences series, streamed on Twitch. Check out the [README](https://github.com/byteconf/conferences) to learn more.
