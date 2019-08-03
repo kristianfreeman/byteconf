@@ -18,4 +18,4 @@ For instance:
 
 OK, now on to the fun stuff. [**Submit your ideas here, by filing a ticket!**](https://github.com/byteconf/conferences/issues/new)
 
-Have questions? Join us on [our Discord](https://byteconf.com/discord), or shoot me a DM on [Twitter](https://twitter.com/signalnerve). I'm super excited to see what y'all come up with 🙌
+Have questions? Shoot me a DM on [Twitter](https://twitter.com/signalnerve). I'm super excited to see what y'all come up with 🙌
