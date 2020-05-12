@@ -1,14 +1,10 @@
-## byteconf/conferences
+## signalnerve/byteconf
 
-👋 Hey, [Kristian](https://twitter.com/signalnerve) from [Byteconf](https://byteconf.com) here. Byteconf is **a developer community for everyone** - we're putting on free conferences and events, streamed online [on Twitch](https://byteconf.com/s/twitch). 
+👋 Hey, [Kristian](https://twitter.com/signalnerve) from [Bytesized](https://bytesized.xyz) here. Byteconf is **a developer community for everyone** - I'm organizing free dev conferences and events, streamed online [on YouTube](https://www.bytesized.xyz/yt). 
 
-We're big fans of doing stuff _with_ our community - our first conference, [Byteconf React 2018](https://www.byteconf.com/react-2018), featured eight speakers chosen _by_ the community to talk about what's new and awesome in the React world. 
+**I want to put on conferences and events that are proposed by the community.** If I have an idea for a conference, I want your feedback too - _who would you like to see speak at the conference_? _What kind of topics do you want to see covered?_
 
-We've been thinking about how best to involve the community in pretty much _every_ aspect of Byteconf. For instance, on [Twitter](https://twitter.com/byteconf), we'll ask daily questions about what you're working on, what new open-source projects you've discovered, etc. On [our Discord](https://byteconf.com/discord), developers from around the world discuss anything and everything, and together are building a place where we can all learn and grow as developers, together ❤️
-
-**We want to put on conferences and events that are proposed by the community.** If we have an idea for a conference, we want your feedback too - _who would you like to see speak at the conference_? _What kind of topics do you want to see covered?_
-
-**This repo** is where we'll track the conferences we _want_ to put on, the conferences we _are_ putting on, and every other pipe dream idea we have. I'll be submitting tickets for the things I'm interested in, but it's GitHub, so you should submit something too! 
+**This repo** is where I'll track the conferences I _want_ to put on, the conferences I _am_ putting on, and every other pipe dream idea I have. I'll be submitting tickets for the things I'm interested in, but it's GitHub, so you should submit something too! 
 
 For instance:
 - A conference for your favorite language, like _Elixir_ or _Rust_
